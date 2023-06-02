@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9330fbc-6a2c-4117-8355-c74f40000f11" name="Changes" comment="This is the first commit with hello world file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-    </list>
+    <list default="true" id="d9330fbc-6a2c-4117-8355-c74f40000f11" name="Changes" comment="New line added in the hello.py file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685699628042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New line added in the hello.py file">
+      <created>1685700271186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685700271186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the first commit with hello world file" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the first commit with hello world file" />
+    <MESSAGE value="New line added in the hello.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="New line added in the hello.py file" />
   </component>
 </project>
